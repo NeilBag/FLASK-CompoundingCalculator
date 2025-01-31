@@ -1,5 +1,6 @@
 # requirements.txt
-Flask==3.0.2
+Flask==2.3.2
+pandas==2.0.3
 openpyxl==3.1.2
-Werkzeug==3.0.1
+xlsxwriter==3.1.2
 gunicorn
